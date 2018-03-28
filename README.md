@@ -1,4 +1,4 @@
-# Sprint 4 – Build a Travel Booking Form
+# Build a Travel Booking Form
 
 In today's assignment we are going to learn how to use SASS and take our frontend skills to a new level. Your task is to build a copy of the [Norweigan](https://www.norwegian.com/se/) flight booking form :point_down:.
 
