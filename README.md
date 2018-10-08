@@ -12,7 +12,10 @@ Once you've completed the first tab layout and feel comfortable with SASS, then 
 
 In the code folder of this assignment is a copy of the Technigo react starter project. You will need to begin by adding SASS to the project.
 
-Follow [these steps](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc) to set up a project to use SASS.
+If you're running **React 2.0**, which the starter code for this assignment is, then use: 
+https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-sass-stylesheet
+
+**For older projects and older versions of React** you need to follow [these steps](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc) to set up a project to use SASS.
 
 Once you have everything installed, start by drawing the structure with pen and paper to get your initial solution clear in your head before you start coding.
 
